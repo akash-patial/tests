@@ -1,1 +1,1 @@
-print("Hi, this is first jenkins git demo")
+print("Hi, this is first jenkins git demo, v7")
